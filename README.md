@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Lumin, is a playwoof factory
-- 🌱 I’m currently learning ... date and bussines
-- 👯 I’m looking to collaborate on ... a company
-- 🤔 I’m looking for help with ... this subject
-- 💬 Ask me about ...my work
-- 📫 How to reach me: ... send me a menssanje 
-- 😄 Pronouns: ... nando, juan, fausti
-- ⚡ Fun fact: ... 98989 
+- 🔭 I’m currently working on ... Lumin, es una fabrica de Playwood
+- 🌱 I’m currently learning ...  Ciencia de datos
+- 👯 I’m looking to collaborate on ... Compañia Tecnologica
+- 🤔 I’m looking for help with ...  Proyectos
+- 💬 Ask me about ... Mis situación actual y mis proyectos
+- 📫 How to reach me: ... e-mail
+- 😄 Pronouns: ... Nando
+- ⚡ Fun fact: ...  
 
